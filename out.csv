@@ -1,0 +1,201 @@
+id;Movie;Budget;Box office;Release year;Rating;Popularity;Director;Producer
+0;The Dark Knight;185000000;1004558444;2008;8.4;54.602;Christopher Nolan;Charles Roven, Christopher Nolan, Emma Thomas, Lorne Orleans
+1;Se7en;33000000;327311859;1995;8.3;50.812;David Fincher;Arnold Kopelson, Phyllis Carlyle
+2;Bandits;75000000;67631903;2001;6.2;46.95;Barry Levinson;Barry Levinson, Paula Weinstein, Arnold Rifkin, Ashok Amritraj, Michael Birnbaum, Michele Berk, David Hoberman
+3;The Shawshank Redemption;25000000;28341469;1994;8.7;46.524;Frank Darabont;Niki Marvin
+4;Juice;5000000;20146880;1992;7.0;44.969;Ernest R. Dickerson;
+5;Batman Begins;150000000;374218673;2005;7.7;42.067;Christopher Nolan;Larry J. Franco, Charles Roven, Emma Thomas, Lorne Orleans
+6;Léon: The Professional;16000000;45284974;1994;8.3;40.799;Luc Besson;Patrice Ledoux
+7;GoodFellas;25000000;46836394;1990;8.4;40.038;Martin Scorsese;Irwin Winkler
+8;Pulp Fiction;8000000;214179088;1994;8.5;38.124;Quentin Tarantino;Lawrence Bender
+9;Kill Bill: Vol. 1;30000000;180899045;2003;8.0;31.58;Quentin Tarantino;Lawrence Bender, Katsuji Morishita
+10;Reservoir Dogs;1200000;2859750;1992;8.2;31.574;Quentin Tarantino;Lawrence Bender
+11;The Departed;90000000;289847354;2006;8.1;27.604;Martin Scorsese;Brad Pitt, Brad Grey, Graham King
+12;Inside Man;45000000;185798265;2006;7.4;27.587;Spike Lee;Brian Grazer
+13;The Mask;23000000;351583407;1994;6.9;27.134;Chuck Russell;Robert Engelman
+14;The Green Mile;60000000;286801374;1999;8.5;25.756;Frank Darabont;David Valdes, Frank Darabont
+15;Big Momma's House;30000000;173959438;2000;5.7;24.787;Raja Gosnell;David T. Friendly, Michael Green
+16;Big Momma's House 2;40000000;138259062;2006;5.7;24.683;John Whitesell;David T. Friendly, Michael Green
+17;The Girl with the Dragon Tattoo;13000000;109421911;2009;7.5;24.445;Niels Arden Oplev;Søren Stærmose
+18;The Fugitive;44000000;368875760;1993;7.4;24.185;Andrew Davis;Arnold Kopelson
+19;Quantum of Solace;200000000;589580482;2008;6.3;23.786;Marc Forster;Barbara Broccoli, Michael G. Wilson
+20;Kill Bill: Vol. 2;30000000;152159461;2004;7.9;23.538;Quentin Tarantino;Lawrence Bender
+21;From Dusk Till Dawn;19000000;25836616;1996;7.0;23.463;Robert Rodriguez;Gianni Nunnari, Meir Teper
+22;The Usual Suspects;6000000;23341568;1995;8.2;23.202;Bryan Singer;Bryan Singer, Michael McDonnell
+23;Ocean's Eleven;85000000;450717150;2001;7.4;23.025;Steven Soderbergh;Jerry Weintraub
+24;The Big Lebowski;15000000;46189568;1998;7.9;22.989;Joel Coen, Ethan Coen;Ethan Coen
+25;Transporter 2;32000000;85167639;2005;6.3;22.928;Louis Leterrier;Luc Besson, Steve Chasman
+26;Heat;60000000;187436818;1995;7.9;22.787;Michael Mann;Michael Mann, Art Linson
+27;Trainspotting;4000000;16491080;1996;8.0;22.709;Danny Boyle;Andrew Macdonald
+28;Bad Boys;19000000;141407024;1995;6.7;22.704;Michael Bay;Jerry Bruckheimer, Don Simpson
+29;Snatch;10000000;83557872;2000;7.8;22.433;Guy Ritchie;Matthew Vaughn
+30;The Godfather: Part III;54000000;136766062;1990;7.4;22.306;Francis Ford Coppola;Francis Ford Coppola, Gray Frederickson, Fred Roos, Fred Fuchs, Nicholas Gage, Marina Gefter, Charles Mulvehill
+31;Gone in Sixty Seconds;90000000;237202299;2000;6.3;22.286;Dominic Sena;Jerry Bruckheimer, Mike Stenson
+32;No Country for Old Men;25000000;171627166;2007;7.9;22.26;Joel Coen, Ethan Coen;Joel Coen, Ethan Coen, Scott Rudin, David Diliberto
+33;Collateral;65000000;217764291;2004;7.2;22.156;Michael Mann;Michael Mann, Julie Richardson
+34;Metro;55000000;31987563;1997;5.5;22.098;Thomas Carter;Roger Birnbaum
+35;Daredevil;78000000;179179718;2003;5.2;22.081;Mark Steven Johnson;Arnon Milchan, Avi Arad, Gary Foster
+36;Shooter;61000000;95696996;2007;7.0;21.942;Antoine Fuqua;Lorenzo Di Bonaventura
+37;Bad Boys II;130000000;273339556;2003;6.5;21.77;Michael Bay;Jerry Bruckheimer
+38;The Transporter;21000000;43928932;2002;6.6;21.721;Louis Leterrier, Corey Yuen;Luc Besson, Steve Chasman
+39;Sin City;40000000;158733820;2005;7.4;21.55;Robert Rodriguez, Frank Miller;Elizabeth Avellan
+40;L.A. Confidential;35000000;126216940;1997;7.8;21.485;Curtis Hanson;Curtis Hanson, Arnon Milchan, Michael G. Nathanson
+41;Austin Powers: The Spy Who Shagged Me;33000000;312016858;1999;6.2;21.31;Jay Roach;Eric McLeod, Jennifer Todd, Suzanne Todd, John S. Lyons, Demi Moore, Mike Myers
+42;Hot Fuzz;12000000;80573774;2007;7.5;21.174;Edgar Wright;Tim Bevan, Eric Fellner, Nira Park
+43;Sherlock Holmes;90000000;524028679;2009;7.2;20.75;Guy Ritchie;Joel Silver, Lionel Wigram, Susan Downey, Steve Clark-Hall, Dan Lin, Peter Eskelsen
+44;Austin Powers in Goldmember;63000000;296655431;2002;6.0;20.703;Jay Roach;Eric McLeod, Jennifer Todd, Suzanne Todd, John S. Lyons, Demi Moore, Mike Myers
+45;Zodiac;65000000;84785914;2007;7.5;20.508;David Fincher;Ceán Chaffin, James Vanderbilt, Mike Medavoy, Arnold Messer, Brad Fischer
+46;Carlito's Way;30000000;36516012;1993;7.8;20.282;Brian De Palma;Martin Bregman, Judith Stevens, Willi Bär, Michael Bregman
+47;Catch Me If You Can;52000000;352114312;2002;7.9;20.17;Steven Spielberg;Steven Spielberg, Walter F. Parkes
+48;Casino;52000000;116112375;1995;8.0;20.03;Martin Scorsese;Barbara De Fina
+49;The Negotiator;50000000;44547681;1998;7.0;19.873;F. Gary Gray;Arnon Milchan, David Hoberman
+50;Public Enemies;80000000;214104620;2009;6.6;19.826;Michael Mann;Michael Mann, Kevin Misher
+51;Transporter 3;30000000;108979549;2008;6.1;19.81;Olivier Megaton;Luc Besson, Steven Chasman
+52;Batman Forever;100000000;336529144;1995;5.3;19.628;Joel Schumacher;Tim Burton, Peter Macgregor-Scott
+53;Donnie Brasco;35000000;41954997;1997;7.5;19.431;Mike Newell;Louis DiGiaimo, Barry Levinson, Mark Johnson, Gail Mutrux
+54;Ocean's Twelve;110000000;362744280;2004;6.5;19.409;Steven Soderbergh;Jerry Weintraub
+55;Rush Hour;33000000;244386864;1998;6.9;19.289;Brett Ratner;Roger Birnbaum, Jonathan Glickman, Arthur M. Sarkissian
+56;Miss Congeniality;45000000;212000000;2000;6.4;19.219;Donald Petrie;Sandra Bullock
+57;Speed;30000000;350448145;1994;7.0;19.095;Jan de Bont;Mark Gordon
+58;Blow;53000000;83282296;2001;7.4;19.036;Ted Demme;Denis Leary, Ted Demme, Joel Stillerman, Tomás Krejcí
+59;Swordfish;102000000;147080413;2001;6.2;18.974;Dominic Sena;Joel Silver, Jonathan D. Krane, Paul Winze
+60;Saw IV;10000000;139352633;2007;6.1;18.953;Darren Lynn Bousman;Mark Burg, Gregg Hoffman, Oren Koules
+61;Ace Ventura: When Nature Calls;30000000;212385533;1995;6.3;18.712;Steve Oedekerk;James G. Robinson, Bob Israel, Andrew G. La Marca
+62;Step Up;12000000;114194847;2006;6.9;18.656;Anne Fletcher;Patrick Wachsberger, Erik Feig, Adam Shankman, Jennifer Gibgot
+63;Rush Hour 2;90000000;347325802;2001;6.6;18.608;Brett Ratner;
+64;Charlie's Angels;92000000;264105545;2000;5.7;18.591;McG;Nancy Juvonen, Drew Barrymore, Leonard Goldberg
+65;American Psycho;7000000;34266564;2000;7.3;18.578;Mary Harron;Christian Halsey Solomon, Chris Hanley, Edward R. Pressman
+66;Saw;1200000;103911669;2004;7.4;18.476;James Wan;Mark Burg, Gregg Hoffman, Oren Koules
+67;City of God;3300000;30641770;2002;8.4;18.412;Fernando Meirelles;Andrea Barata Ribeiro, Mauricio Andrade Ramos, Marc Beauchamps, Daniel Filho, Hank Levine, Vincent Maraval, Donald Ranvaud, Juliette Renaud, Walter Salles
+68;RockNRolla;18000000;25739015;2008;6.9;18.386;Guy Ritchie;Guy Ritchie, Joel Silver, Susan Downey, Steve Clark-Hall
+69;Face/Off;80000000;245676146;1997;6.9;18.364;John Woo;Barrie M. Osborne, Terence Chang, David Permut, Christopher Godsick
+70;Crank: High Voltage;20000000;34560577;2009;6.0;18.361;Brian Taylor, Mark Neveldine;Tom Rosenberg, Gary Lucchesi, Richard S. Wright, Skip Williamson
+71;Chicago;45000000;306776732;2002;7.2;18.278;Rob Marshall;Martin Richards
+72;Gangs of New York;100000000;193772504;2002;7.3;18.146;Martin Scorsese;Gerry Robert Byrne, Harvey Weinstein, Alberto Grimaldi, Joseph P. Reidy, Laura Fattori
+73;True Romance;12500000;12281551;1993;7.5;18.056;Tony Scott;Gary Barber, Samuel Hadida, Steve Perry, Bill Unger
+74;Law Abiding Citizen;53000000;126690726;2009;7.3;17.99;F. Gary Gray;Lucas Foster, Kurt Wimmer, Gerard Butler, Mark Gill, Alan Siegel
+75;Demolition Man;57000000;159055768;1993;6.5;17.984;Marco Brambilla;Howard G. Kazanjian, Joel Silver, Michael Levy
+76;Undisputed II: Last Man Standing;0;0;2006;7.0;17.91;Isaac Florentine;
+77;Austin Powers: International Man of Mystery;16500000;67683989;1997;6.5;17.883;Jay Roach;Jennifer Todd, Suzanne Todd, Demi Moore
+78;Natural Born Killers;34000000;50282766;1994;7.1;17.878;Oliver Stone;Jane Hamsher, Don Murphy, Clayton Townsend
+79;Mystic River;25000000;156822020;2003;7.7;17.703;Clint Eastwood;Clint Eastwood, Judie Hoyt, Robert Lorenz
+80;Rush Hour 3;140000000;258022233;2007;6.3;17.53;Brett Ratner;Roger Birnbaum, Jonathan Glickman, Arthur M. Sarkissian, Jay Stern
+81;Cradle 2 the Grave;25000000;56489558;2003;6.0;17.357;Andrzej Bartkowiak;Joel Silver
+82;21;35000000;69823199;2008;6.6;17.311;Robert Luketic;Michael De Luca, Dana Brunetti
+83;Universal Soldier;23000000;0;1992;6.1;17.3;Roland Emmerich;Joel B. Michaels, Craig Baumgarten, Allen Shapiro
+84;The Italian Job;60000000;176070171;2003;6.7;17.19;F. Gary Gray;Donald De Line
+85;O Brother, Where Art Thou?;26000000;71868327;2000;7.3;17.154;Joel Coen, Ethan Coen;Ethan Coen
+86;Jackie Brown;12000000;39673162;1997;7.3;17.048;Quentin Tarantino;Lawrence Bender
+87;Con Air;75000000;224012234;1997;6.7;17.012;Simon West;Jerry Bruckheimer
+88;8MM;40000000;96618699;1999;6.3;16.96;Joel Schumacher;Joel Schumacher, Gavin Polone, Judy Hofflund
+89;Scream;14000000;173046663;1996;7.2;16.846;Wes Craven;Cathy Konrad, Cary Woods
+90;Dogville;10000000;16680836;2003;7.8;16.83;Lars von Trier;Vibeke Windeløv, Anja Grafers, Els Vandevorst, Gillian Berrie, Bettina Brokemper, Liisa Penttilä-Asikainen
+91;Lethal Weapon 3;35000000;321731527;1992;6.6;16.806;Richard Donner;Joel Silver, Richard Donner
+92;Insomnia;46000000;113714830;2002;6.9;16.577;Christopher Nolan;Paul Junger Witt, Edward McDonnell, Broderick Johnson, Andrew A. Kosove
+93;Kung Fu Hustle;20000000;101434304;2004;7.3;16.535;Stephen Chow;Stephen Chow, Po Chu Chui, Jeffrey Lau
+94;Crank;12000000;42931041;2006;6.6;16.518;Brian Taylor, Mark Neveldine;Tom Rosenberg, Gary Lucchesi, Skip Williamson, Michael Davis
+95;Traffic;48000000;207515725;2000;7.0;16.26;Steven Soderbergh;Edward Zwick, Marshall Herskovitz, Laura Bickford
+96;Fargo;7000000;60611975;1996;7.9;16.243;Joel Coen, Ethan Coen;Joel Coen, Ethan Coen
+97;Ted Bundy;1200000;68716;2002;5.8;16.24;Matthew Bright;Michael Muscal
+98;Four Rooms;4000000;4257354;1995;5.9;16.188;Allison Anders, Alexandre Rockwell, Robert Rodriguez, Quentin Tarantino;Lawrence Bender
+99;The Talented Mr. Ripley;40000000;128798265;1999;7.2;16.175;Anthony Minghella;Tom Sternberg, William Horberg
+100;Smokin' Aces;17000000;57103895;2006;6.5;15.966;Joe Carnahan;Tim Bevan, Eric Fellner
+101;In Bruges;15000000;34533783;2008;7.5;15.945;Martin McDonagh;Graham Broadbent, Peter Czernin
+102;Ocean's Thirteen;85000000;311312624;2007;6.7;15.898;Steven Soderbergh;Jerry Weintraub
+103;Saw III;10000000;163876815;2006;6.4;15.843;Darren Lynn Bousman;Mark Burg, Oren Koules
+104;Home Alone 2: Lost in New York;18000000;358994850;1992;6.6;15.834;Chris Columbus;John Hughes
+105;21 Grams;20000000;60427839;2003;7.3;15.767;Alejandro González Iñárritu;Alejandro González Iñárritu, Guillermo Arriaga, Robert Salerno
+106;The Girl Who Kicked the Hornet's Nest;4000000;43498108;2009;7.0;15.721;Daniel Alfredson;Søren Stærmose
+107;A History of Violence;32000000;60740827;2005;7.2;15.542;David Cronenberg;Chris Bender, J.C. Spink
+108;The Life of David Gale;50000000;38955598;2003;7.4;15.539;Alan Parker;Nicolas Cage, Alan Parker
+109;Memories of Murder;2800000;26000000;2003;8.1;15.492;Bong Joon-ho;Tcha Sung-jai, Kim Moo-ryoung, Noh Jong-yun
+110;Wanted;75000000;258270008;2008;6.5;15.408;Timur Bekmambetov;Iain Smith, Jim Lemley, Marc Platt, Jason Netter
+111;Lucky Number Slevin;27000000;56308881;2006;7.5;15.408;Paul McGuigan;Andreas Grosch, Christopher Roberts, Anthony Rhulen, Kia Jam, Christopher Eberts, Tyler Mitchell, Robert Kravis
+112;The Whole Nine Yards;41300000;106371651;2000;6.4;15.375;Jonathan Lynn;Allan Kaufman, David Willis
+113;The Boondock Saints;6000000;30471;1999;7.3;15.362;Troy Duffy;Elie Samaha, Lloyd Segan, Chris Brinker, Robert N. Fried
+114;Kiss Kiss Bang Bang;15000000;15785148;2005;7.2;15.33;Shane Black;Joel Silver, Jessica Alan, Carrie Morrow
+115;Match Point;15000000;85306374;2005;7.3;15.239;Woody Allen;Letty Aronson, Nicky Kentish Barnes, Stephen Tenenbaum, Gareth Wiley
+116;American Gangster;100000000;266465037;2007;7.6;15.234;Ridley Scott;Brian Grazer, Ridley Scott
+117;Sleepers;44000000;165615285;1996;7.5;15.216;Barry Levinson;Steve Golin, Barry Levinson, Lorenzo Carcaterra, Gerrit van der Meer
+118;Desperado;7000000;25405445;1995;6.8;15.15;Robert Rodriguez;Robert Rodriguez, Bill Borden
+119;Gone Baby Gone;19000000;34619699;2007;7.3;15.147;Ben Affleck;Alan Ladd, Jr., Sean Bailey, Danton Rissner
+120;Cape Fear;35000000;182300000;1991;7.3;15.109;Martin Scorsese;Robert De Niro, Barbara De Fina
+121;xXx: State of the Union;60000000;71073932;2005;4.9;14.995;Lee Tamahori;Arne Schmidt, Neal H. Moritz
+122;Strange Days;42000000;7959291;1995;7.0;14.872;Kathryn Bigelow;Steven-Charles Jaffe, James Cameron
+123;Rumble in the Bronx;7500000;32392047;1995;6.7;14.832;Stanley Tong;Barbie Tung
+124;Taking Lives;45000000;65470529;2004;6.3;14.744;D.J. Caruso;Mark Canton, Bernie Goldmann
+125;The Crimson Rivers;2365000;0;2000;6.9;14.736;Mathieu Kassovitz;Alain Goldman
+126;The Bank Job;20000000;64822796;2008;6.8;14.669;Roger Donaldson;Charles Roven, Steve Chasman, Mairi Bett, Aaron Shuster
+127;Shoot 'Em Up;39000000;26820641;2007;6.4;14.642;Michael Davis;Don Murphy, Rick Benattar, Jeff Katz, Susan Montford
+128;Basic Instinct 2;70000000;38629478;2006;4.9;14.588;Michael Caton-Jones;Mario Kassar, Joel B. Michaels, Andrew G. Vajna, Aslan Nadery
+129;Pride and Glory;30000000;31148328;2008;6.4;14.557;Gavin O'Connor;Greg O'Connor, Robert Hopes, Josh Fagin
+130;The Boondock Saints II: All Saints Day;8000000;10629321;2009;6.0;14.525;Troy Duffy;Don Carmody, Chris Brinker
+131;Be Cool;53000000;95226116;2005;5.4;14.422;F. Gary Gray;Danny DeVito, Michael Shamberg, Stacey Sher, David Nicksay
+132;The Bone Collector;73000000;151493655;1999;6.7;14.253;Phillip Noyce;Martin Bregman, Michael Bregman, Louis A. Stroller
+133;Another 48 Hrs.;38000000;153518974;1990;5.9;14.168;Walter Hill;Robert D. Wachs, Lawrence Gordon
+134;Bless the Child;40000000;0;2000;5.2;14.162;Chuck Russell;Mace Neufeld
+135;Lethal Weapon 4;140000000;285444603;1998;6.5;14.122;Richard Donner;Joel Silver, Richard Donner
+136;Panic Room;48000000;196397415;2002;6.7;14.042;David Fincher;David Koepp, Ceán Chaffin, Gavin Polone, Judy Hofflund
+137;Primal Fear;30000000;102616183;1996;7.7;14.018;Gregory Hoblit;Gary Lucchesi
+138;Green Street Hooligans;0;3154346;2005;7.2;13.965;Lexi Alexander;Gigi Pritzker, Deborah Del Prete, Donald Zuckerman
+139;Perfume: The Story of a Murderer;50000000;132180323;2006;7.2;13.946;Tom Tykwer;Bernd Eichinger, Gigi Oeri
+140;The Punisher;33000000;54700105;2004;6.1;13.93;Jonathan Hensleigh;Gale Anne Hurd, Avi Arad
+141;We Own the Night;21000000;54926886;2007;6.7;13.902;James Gray;Joaquin Phoenix, Nick Wechsler, Mark Wahlberg, Marc Butan
+142;The Taking of Pelham 1 2 3;100000000;150166126;2009;6.3;13.83;Tony Scott;Richard Baratta, Todd Black, Jason Blumenthal
+143;Ronin;55000000;70692101;1998;6.9;13.83;John Frankenheimer;Frank Mancuso Jr.
+144;Patriot Games;45000000;178051587;1992;6.6;13.8;Phillip Noyce;Mace Neufeld, Robert Rehme
+145;Police Story 3: Super Cop;900000;20483423;1992;6.7;13.767;Stanley Tong;Willie Chan
+146;Training Day;45000000;104876233;2001;7.4;13.762;Antoine Fuqua;Jeffrey Silver, Robert F. Newmyer
+147;Brooklyn's Finest;17000000;36440201;2009;6.4;13.745;Antoine Fuqua;John Thompson, Basil Iwanyk, Joe Napolitano, John Langley, Elie Cohn, Jeanne O'Brien-Ebiri, Kat Samick
+148;Boys Don't Cry;2000000;11540607;1999;7.5;13.626;Kimberly Peirce;John Hart, Eva Kolodner, Christine Vachon, Jeffrey Sharp, Brad Simpson, Morton Swinsky
+149;Kiss the Girls;27000000;60527873;1997;6.4;13.597;Gary Fleder;David Brown, Joe Wizan, Steve Wizan
+150;Home Alone 4;0;0;2002;4.3;13.571;Rod Daniel;Mitch Engel
+151;Miami Vice;135000000;163794509;2006;5.9;13.568;Michael Mann;Michael Mann, Pieter Jan Brugge
+152;Hostage;52000000;77944725;2005;6.3;13.55;Florent-Emilio Siri;Bruce Willis, Bob Yari, Mark Gordon, Arnold Rifkin
+153;Eastern Promises;51500000;56106607;2007;7.4;13.541;David Cronenberg;Robert Lantos, Paul Webster
+154;Point Break;24000000;83531958;1991;7.1;13.482;Kathryn Bigelow;James Cameron, Peter Abrams, Robert L. Levy
+155;The Naked Gun 2½: The Smell of Fear;23000000;86930411;1991;6.8;13.415;David Zucker;Robert K. Weiss, Jim Abrahams
+156;Road to Perdition;80000000;181001478;2002;7.4;13.389;Sam Mendes;Sam Mendes, Richard D. Zanuck, Dean Zanuck
+157;Vantage Point;40000000;151161491;2008;6.3;13.313;Pete Travis;Neal H. Moritz
+158;The Interpreter;80000000;162944923;2005;6.3;13.286;Sydney Pollack;Tim Bevan, Eric Fellner, Kevin Misher
+159;36th Precinct;0;0;2004;6.9;13.16;Olivier Marchal;Franck Chorot, Cyril Colbeau-Justin, Jean-Baptiste Dupont
+160;My Super Ex-Girlfriend;0;60896147;2006;4.9;13.14;Ivan Reitman;Arnon Milchan, Gavin Polone
+161;The Jackal;60000000;159330280;1997;6.2;13.091;Michael Caton-Jones;Kevin Jarre, Sean Daniel, James Jacks, Michael Caton-Jones
+162;Freedom Writers;21000000;41170784;2007;7.8;13.081;Richard LaGravenese;Danny DeVito, Michael Shamberg, Stacey Sher
+163;Hard Target;18000000;74189677;1993;6.2;13.076;John Woo;Sean Daniel, James Jacks
+164;Payback;90000000;161626121;1999;6.8;13.026;Brian Helgeland;Bruce Davey
+165;16 Blocks;55000000;65664721;2006;6.4;12.92;Richard Donner;Avi Lerner, Randall Emmett, Arnold Rifkin, John Thompson, Jim Van Wyck
+166;U.S. Marshals;60000000;102367405;1998;6.4;12.915;Stuart Baird;Arnold Kopelson, Anne Kopelson
+167;White Chicks;37000000;113086475;2004;6.8;12.913;Keenen Ivory Wayans;Marlon Wayans, Keenen Ivory Wayans, Shawn Wayans, Rick Alvarez, Lee R. Mayes
+168;Get Shorty;30250000;115101622;1995;6.5;12.884;Barry Sonnenfeld;Danny DeVito, Michael Shamberg, Stacey Sher
+169;Assassins;50000000;30303072;1995;6.2;12.844;Richard Donner;Joel Silver, Bruce A. Evans, Raynold Gideon, Richard Donner, Jim Van Wyck, Andrew Lazar
+170;Baby's Day Out;50000000;16671505;1994;5.9;12.806;Patrick Read Johnson;John Hughes, Richard Vane
+171;Disclosure;55000000;214015089;1994;6.0;12.8;Barry Levinson;Barry Levinson
+172;Adaptation.;19000000;32801173;2002;7.4;12.778;Spike Jonze;Jonathan Demme, Edward Saxon, Vincent Landay
+173;Cleaner;25000000;0;2007;6.0;12.72;Renny Harlin;Steve Golin, Michael P. Flannigan
+174;RoboCop 2;35000000;45681173;1990;5.9;12.62;Irvin Kershner;Jon Davison
+175;Street Kings;20000000;65569869;2008;6.5;12.607;David Ayer;Erwin Stoff, Lucas Foster, Alexandra Milchan
+176;Taxi;25000000;36609966;2004;5.1;12.548;Tim Story;Luc Besson
+177;Middle Men;22000000;0;2009;6.5;12.543;George Gallo;William Sherak, Jason Shuman, Christopher Mallick, Michael Weiss
+178;Little Man;64000000;101595121;2006;5.7;12.519;Keenen Ivory Wayans;Marlon Wayans, Keenen Ivory Wayans, Shawn Wayans, Rick Alvarez, Lee R. Mayes
+179;Police Academy: Mission to Moscow;0;126247;1994;4.4;12.512;Alan Metter;Paul Maslansky
+180;Starsky & Hutch;60000000;170268750;2004;5.8;12.488;Todd Phillips;Akiva Goldsman, Stuart Cornfeld, Tony Ludwig, Alan Riche, William Blinn
+181;Layer Cake;6500000;11850214;2004;7.0;12.476;Matthew Vaughn;Matthew Vaughn, Adam Bohling, David Reid
+182;Lord of War;50000000;72617068;2005;7.2;12.457;Andrew Niccol;Nicolas Cage, Andreas Grosch, Andrew Niccol, Norman Golightly, Christopher Roberts, Teri-Lin Robertson, Philippe Rousselet
+183;Changeling;55000000;113020255;2008;7.6;12.4;Clint Eastwood;Clint Eastwood, Brian Grazer, Robert Lorenz, Ron Howard
+184;Wild at Heart;9500000;14560247;1990;7.1;12.296;David Lynch;Steve Golin, Monty Montgomery, Sigurjón Sighvatsson
+185;Operation Condor;0;0;1991;7.3;12.265;Jackie Chan;Leonard Ho
+186;A Matter of Loaf and Death;0;0;2008;7.2;12.236;Nick Park;Steve Pegram
+187;Miller's Crossing;14000000;5080409;1990;7.5;12.229;Joel Coen, Ethan Coen;Ethan Coen
+188;Shaft;46000000;107196498;2000;5.9;12.148;John Singleton;Scott Rudin, John Singleton, Mark Roybal
+189;In the Line of Fire;40000000;176997168;1993;6.9;12.135;Wolfgang Petersen;Jeff Apple
+190;Mercury Rising;60000000;93107289;1998;6.2;12.133;Harold Becker;Brian Grazer, Karen Kehela Sherwood
+191;Double Impact;15000000;30102717;1991;5.6;12.121;Sheldon Lettich;Paul Michael Glaser, Jean-Claude Van Damme, Ashok Amritraj
+192;S.W.A.T.;80000000;116643346;2003;6.0;12.065;Clark Johnson;Dan Halsted, Neal H. Moritz, Chris Lee
+193;The Bad Lieutenant: Port of Call - New Orleans;25000000;10589102;2009;6.1;12.046;Werner Herzog;Nicolas Cage, Edward R. Pressman, Randall Emmett, John Thompson, Mel B, Alan Polsky, Stephen Belafonte, Gabe Polsky
+194;Crimson Rivers II: Angels of the Apocalypse;0;0;2004;6.0;12.045;Olivier Dahan;Luc Besson, Alain Goldman
+195;Traitor;22000000;23530831;2008;6.6;12.014;Jeffrey Nachmanoff;Don Cheadle, Jeffrey Silver, David Hoberman, Todd Lieberman, Glynis Murray, Richard Schlesinger
+196;Absolute Power;50000000;50068310;1997;6.6;12.004;Clint Eastwood;Clint Eastwood, Michael Maurer, Karen S. Spiegel
+197;Unleashed;45000000;50871113;2005;6.7;11.982;Louis Leterrier;Luc Besson, Jet Li, Pierre Spengler, Steve Chasman, Mehdi Sayah
+198;Irreversible;0;792200;2002;7.2;11.981;Gaspar Noé;Christophe Rossignon
+199;The Girl Who Played with Fire;4422952;67126795;2009;7.0;11.977;Daniel Alfredson;Søren Stærmose
