@@ -1,1 +1,1 @@
-# Thomas-More
+# Thomas More
